@@ -1,0 +1,11 @@
+# AWS credentials
+.aws/
+
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/.terraform.lock.hcl
+
+# Logs
+*.log
